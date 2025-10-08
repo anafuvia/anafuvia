@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Anafuvia
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em desenvolver Banco de dados e Back-End .
 
 ---
 
@@ -32,7 +32,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| **Nome do Projeto 1** | [🔗 Ver online](https://seu-link.com) | HTML / CSS / JS          |
+| **Meu site**          | [🔗 Ver online]([https://seu-link.com](https://anafuvia.github.io/Meu-SITE-/)) | HTML / CSS / JS          |
 | **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
 | **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
 
@@ -43,9 +43,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ## 💡 Sobre Mim
 
 - 🎓 Atualmente estudo no **SESI cocaia**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
+- 💻 Estou aprendendo **Desenvolvimento de sites e interações entre cliente e servidor**
+- 🎯 Meu objetivo é **Ter um bom desempenho no curos, para trabalhar com isso porteriormente**
+- 📚 Gosto de aprender sobre **Pscicologia, Idiomas e Política**
 - ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
 
 ---
