@@ -44,7 +44,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 - 🎓 Atualmente estudo no **SESI cocaia**
 - 💻 Estou aprendendo **Desenvolvimento de sites e interações entre cliente e servidor**
-- 🎯 Meu objetivo é **Ter um bom desempenho no curos, para trabalhar com isso porteriormente**
+- 🎯 Meu objetivo é **Ter um bom desempenho no curos, para trabalhar com isso posteriormente**
 - 📚 Gosto de aprender sobre **Pscicologia, Idiomas e Política**
 -   EU VENCI O MUNDO 🌟
 
