@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Anafuvia
+# 👋 Olá! Eu sou Anafuvia ✬
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em desenvolver Banco de dados e Back-End .
 
