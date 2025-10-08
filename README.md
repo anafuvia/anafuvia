@@ -46,12 +46,12 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 💻 Estou aprendendo **Desenvolvimento de sites e interações entre cliente e servidor**
 - 🎯 Meu objetivo é **Ter um bom desempenho no curos, para trabalhar com isso porteriormente**
 - 📚 Gosto de aprender sobre **Pscicologia, Idiomas e Política**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- Eu venci o mmundo 🌟
 
 ---
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/ana-julia-lima-dos-santos-0b1527389/))   
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/AnaJuliaLimadosSantos)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_anaju.ls)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seuusuario)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anafuvia)
