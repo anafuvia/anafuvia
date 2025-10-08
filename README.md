@@ -33,7 +33,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
 | **Meu site**          | [🔗 Ver online](https://anafuvia.github.io/Meu-SITE-/) | HTML / CSS / JS          |
-| **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
+| **Tabela Brasileirão** | [🔗 Ver online](https://github.com/anafuvia/Brasileir-o) | Node.js / Express / MySQL|
 | **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
 
 > 💡 Dica: Quando tiver projeto novo abrir o GitHub Pages!
